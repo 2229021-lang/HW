@@ -10,6 +10,8 @@
 - [흡연 여부에 따른 질병 예측](./smoking_disease/README.md)  
   R을 활용해 흡연 여부에 따른 질병 발생 차이를 통계적으로 검증한 프로젝트
 
+- [Gradient Descent 실습](./gradient_descent_hw3)
+  Gradient Descent 알고리즘 구현 및 최적화 원리 이해를 경험한 프로젝트
 ---
 
 ## 🛠 Skills
